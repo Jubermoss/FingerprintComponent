@@ -1,4 +1,5 @@
 # Fingerprint Component
 Biometric software component for fingerprint written on C# and C++.
 
-![image2](https://cloud.githubusercontent.com/assets/13265509/13618107/eb4ab2c6-e547-11e5-84ef-45d5d90e6d87.png)
+![screen shot 2016-03-08 at 6 58 15 pm](https://cloud.githubusercontent.com/assets/13265509/13622284/3e1b9c8e-e563-11e5-848e-649dd6f363e8.png)
+
